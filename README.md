@@ -23,4 +23,4 @@ Released under [GPL-3.0][license-url] by [gersonfaneto][profile-url].
 
 [profile-url]: https://github.com/gersonfaneto
 
-[license-url]: https://github.com/gersonfaneto/MatrixMayhem/blob/main/LICENSE
+[license-url]: https://github.com/gersonfaneto/matrix-mayhem/blob/main/LICENSE
